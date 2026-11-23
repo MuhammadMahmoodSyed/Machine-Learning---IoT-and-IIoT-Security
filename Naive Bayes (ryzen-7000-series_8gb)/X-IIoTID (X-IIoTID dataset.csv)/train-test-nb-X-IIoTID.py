@@ -23,7 +23,7 @@ from sklearn.metrics import (
 
 
 # Step 1: Load the xiiotidset using the specified path
-xiiotid = pd.read_csv(r"C:\Personals\muhammad\COMSATS Wah\University Studies\6th Semester\Machine Learning Fundamentals\Project\Dataset\X-IIoTID dataset.csv")
+xiiotid = pd.read_csv("...\Dataset\X-IIoTID dataset.csv")
 
 # Step 2: xiiotid Cleaning & Preprocessing (Lab 02, Lab 05 & Proposal)
 
