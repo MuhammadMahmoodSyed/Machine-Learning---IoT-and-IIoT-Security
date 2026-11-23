@@ -23,7 +23,7 @@ from sklearn.metrics import (
 
 
 # Step 1: Load the xiiotidset using the specified path
-xiiotid = pd.read_csv("...\Dataset\X-IIoTID dataset.csv")
+xiiotid = pd.read_csv("https://github.com/MuhammadMahmoodSyed/Machine-Learning---IoT-and-IIoT-Security/releases/download/v1.0/X-IIoTID.dataset.zip")
 
 # Step 2: xiiotid Cleaning & Preprocessing (Lab 02, Lab 05 & Proposal)
 
