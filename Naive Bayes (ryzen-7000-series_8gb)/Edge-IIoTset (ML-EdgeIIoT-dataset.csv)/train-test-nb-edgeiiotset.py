@@ -25,7 +25,7 @@ from sklearn.metrics import (
 
 
 # Step 1: Load the edgeiiotsetset using the specified path
-edgeiiotset = pd.read_csv("...\Dataset\ML-EdgeIIoT-dataset.csv")
+edgeiiotset = pd.read_csv("...\Dataset\ML-EdgeIIoT-dataset.zip")
 
 # Step 2: edgeiiotset Cleaning & Preprocessing (Lab 02, Lab 05 & Proposal)
 
